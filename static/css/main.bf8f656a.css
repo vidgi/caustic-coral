@@ -1,0 +1,2 @@
+*{box-sizing:border-box}#root,body,html{height:100%;margin:0;padding:0;width:100%}body{background:hotpink}@-webkit-keyframes fade-in{0%{opacity:0}to{opacity:1}}@keyframes fade-in{0%{opacity:0}to{opacity:1}}canvas{-webkit-animation:fade-in 3s ease 1s forwards;animation:fade-in 3s ease 1s forwards;opacity:0;touch-action:none}
+/*# sourceMappingURL=main.bf8f656a.css.map*/
