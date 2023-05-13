@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/caustic-coral/static/css/main.bf8f656a.css",
-    "main.js": "/caustic-coral/static/js/main.04495085.js",
+    "main.js": "/caustic-coral/static/js/main.38dc5499.js",
+    "static/media/coral_blender3.glb": "/caustic-coral/static/media/coral_blender3.24297423793a2c736961.glb",
     "static/media/coral_blender.glb": "/caustic-coral/static/media/coral_blender.0fcfe1e7860f7f81a6da.glb",
     "static/media/coral_blender2.glb": "/caustic-coral/static/media/coral_blender2.e57f4115cc963573b72f.glb",
     "index.html": "/caustic-coral/index.html",
     "main.bf8f656a.css.map": "/caustic-coral/static/css/main.bf8f656a.css.map",
-    "main.04495085.js.map": "/caustic-coral/static/js/main.04495085.js.map"
+    "main.38dc5499.js.map": "/caustic-coral/static/js/main.38dc5499.js.map"
   },
   "entrypoints": [
     "static/css/main.bf8f656a.css",
-    "static/js/main.04495085.js"
+    "static/js/main.38dc5499.js"
   ]
 }
