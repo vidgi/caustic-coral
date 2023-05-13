@@ -8556,6 +8556,11 @@ react-scripts@5.0.1:
   optionalDependencies:
     fsevents "^2.3.2"
 
+react-three-ocean@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-three-ocean/-/react-three-ocean-1.0.1.tgz#59064bca29bd314b2b564e8a7d6ab620cd5a62f6"
+  integrity sha512-/e5cY2AS8pb4ekDjp5B0EiHwLe8uHzH9ljAOGpv+NCpFLKWoYlnEoMLNyhMldPB4KFDqfgBoK3idvcRKSQF9Aw==
+
 react-transition-group@^4.4.5:
   version "4.4.5"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-4.4.5.tgz#e53d4e3f3344da8521489fbef8f2581d42becdd1"
